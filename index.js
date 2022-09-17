@@ -1,3 +1,3 @@
-const Generate = require('./lib');
+const Generate = require('./lib/Generate');
 
 new Generate().promptManager();
