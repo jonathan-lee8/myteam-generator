@@ -24,4 +24,4 @@ MIT License
 
 Link: https://drive.google.com/file/d/1j4HW5BlerggOOUltIE7zcGh02XvzDyBP/view
 
-![](./dist/Screenshot.png)
+![](./src/Screenshot.png)
